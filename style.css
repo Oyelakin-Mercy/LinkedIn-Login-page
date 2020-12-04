@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(6, 87, 185);
+    font-size: 14px;
+
+}
+h1{
+    font-weight: bolder;
+}
+
+span{
+    color: white;
+    background-color: rgb(1, 90, 199);
+    border-radius: 2px;
+}
+.sp{
+    margin-left: 3px;
+    padding: 0px 2px;
+}
+
+main{
+    text-align: center;
+}
+.heading-2{
+    margin-top: 29px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: 23px;
+}
+p{
+    font-size: 16px;
+    line-height: 27px;
+    margin-top: 7px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: rgb(100, 99, 99);
+}
+
+.input-details{
+    margin-top: 37px;
+
+}
+.input-detail{
+    margin-top: 12px;
+}
+.captcher{
+    display: inline-block;
+}
+input{
+    height: 49px;
+    max-width: 440px;
+    border-radius: 5px;
+    border-width: thin;
+    width: 360px;
+    font-size: 17px;
+    padding: 0px 10px;
+    margin-left: 2px;
+
+}
+input:focus {
+    outline-color: rgb(1, 85, 189);
+    transition: all 0s ease-out;
+
+}
+::placeholder{
+    color: black;
+
+}
+input:focus::placeholder {
+    font-size: 12px;
+    transition: all 0.1s ease-out;
+    transform: translate(-0.2%, -133%);
+    line-height: 1em;
+}
+button{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    border: none;
+    margin-top: 22px;
+    padding: 14px 166px;
+    border-radius: 32px;
+    background-color:rgb(1, 90, 199);
+}
+button:hover{
+    background-color:rgb(10, 56, 112) ;
+}
+footer{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer-1{
+    margin-top: 32px;
+    font-size: 18px;
+    color:rgb(6, 110, 236);
+    font-weight: bold;
+}
+.footer-2{
+    margin-top: 20px;
+    font-size: 17px;
+    color: black;
+    
+}
+b{
+    color: rgb(1, 90, 199);
+}
+
