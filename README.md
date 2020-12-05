@@ -2,4 +2,4 @@
 
 I created a replica of LinkedIn login page with HTML and CSS.
 <br>
-[You can View the project here](https://oyelakin-mercy.github.io/LinkedIn-Login-page.github.io/)
+[You can view the project here](https://oyelakin-mercy.github.io/LinkedIn-Login-page.github.io/)
