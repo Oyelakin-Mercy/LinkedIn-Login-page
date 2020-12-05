@@ -1,1 +1,5 @@
 # Recreate-LinkedIn-Signup-page
+
+I created a replica of LinkedIn login page with HTML and CSS.
+<br>
+[You can View the project here](https://oyelakin-mercy.github.io/LinkedIn-Login-page.github.io/)
