@@ -1,4 +1,4 @@
-# Recreate-LinkedIn-Signup-page
+# Recreate LinkedIn Login page
 
 I created a replica of LinkedIn login page with HTML and CSS.
 <br>
