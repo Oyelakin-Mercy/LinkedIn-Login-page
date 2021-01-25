@@ -2,5 +2,5 @@
 
 I created a replica of LinkedIn login page with HTML5 and CSS.
 <br>
-[You can view the project here](https://oyelakin-mercy.github.io/LinkedIn-Login-page/).
+[View the project here](https://oyelakin-mercy.github.io/LinkedIn-Login-page/).
 
