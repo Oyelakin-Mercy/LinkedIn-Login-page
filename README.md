@@ -1,4 +1,4 @@
-Hi# Recreate LinkedIn Login page.
+# Recreate LinkedIn Login page.
 
 
 I created a replica of LinkbedIn login page with HTML5 and CSS3.
